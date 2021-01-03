@@ -224,7 +224,7 @@
 <a name="social-media"></a>
 #### Social Media Networks
 
-:star: There are multiple investigation/monitoring tools for Social Media Networks. Below are some addons, online tools and command-line tools. There are five major social media networks. Most of the US and his neighbors using Facebook, Twitter, Instagram, Linkedin and Reddit. I will also cover country-wise social networks in [Self Curated Notes](#self-curated-notes). 
+:star: There are multiple investigation/monitoring tools for Social Media Networks. Below are some addons, online tools and command-line tools. There are five major social media networks. Most of the US and his neighbors using Facebook, Twitter, Instagram, Linkedin and Reddit. I will also cover country-wise social networks in [Notes](#self-curated-notes). 
 
 - [Twitter](#twitter)
 - [Reddit](#reddit)
@@ -342,3 +342,4 @@
 - Keybase   : [iamsarvagyaa](https://keybase.io/iamsarvagyaa)
 - E-mail    : [iamsarvagyaa@gmail.com](mailto:iamsarvagyaa@gmail.com)
 
+> :mega: For Indian Friends, If you consider to donate some bucks, then donate via UPI - iamsarvagyaa@okaxis
