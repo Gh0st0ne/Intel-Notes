@@ -30,6 +30,7 @@
 - [ ] I Will write a detailed blog-post to get into OSINT
 - [ ] I will add more tools, trainings and notes etc ...
 - [ ] I will start writing solutions of verification quiz - [quiztime](https://twitter.com/quiztime) 
+- [ ] Start writing newsletter and supporter-only post on [Buymeacoffee](https://www.buymeacoffee.com/iamsarvagyaa).
 
 > :mega: ***This repository contains hundreds of quality pieces of stuff and tools which can be used in investigations and do not include everything. All the resources explained are well mannered, Try to read this repository slowly!***
 
@@ -45,6 +46,7 @@
 - [Self Curated Notes](#self-curated-notes)
 - [Podcasts & Webcasts](#webcasts-and-podcasts)
 - [Verification Quizzes](#verification-quizzes)
+- [Other Intel Resources](#other-intel-resources)
 
 <a name="good-reads"></a>
 ### [↑](#synopsis) Good Reads
@@ -234,21 +236,161 @@
 
 - [Twitter Advance Search](https://twitter.com/search-advanced) - Allows you to tailor search results to specific date ranges, people and more.
 - [DoesFollow](https://doesfollow.com) - Find out who follows whom on twitter.
+- [All My Tweets](https://www.allmytweets.net/connect/) - Handy website to view all tweets, followers, etc on one page. 
 
 <a name="reddit"></a>
 :bulb: ***Reddit »*** 
 
 - [Keyword Search](https://www.reddit.com/search?q=yourkeyword) - Search your keywords, you can also filter your results.
+- [Reddit Archive](http://www.redditarchive.com) - Archiving few Reddit from front-page of the Internet.
 
 <a name="self-curated-notes"></a>
 ### [↑](#synopsis) Self Curated Notes
 
 :bookmark: I love to upload all my notes here. Often, I use the pen-paper method to take notes. So, give me some time to update all my notes. Most of the journals/data/notes are gathered from different-different sources like Podcasts, Webcasts, Books, Articles, Blog-Posts, Videos, and etc. Credits belong to the respective authors. Below are some of the notes ...
 
+- [Advance Search & Operators](#advance-search)
+
+<a name="advance-search"></a>
+#### Advance Search & Operators
+
+:star: Advancing your search result is very important. So, below I cover some advance way to search information, tips and techniques related to twitter, Shodan, Github, YouTube, Google, Duckduckgo etc more ...
+
+:bulb: ***Shodan »*** A search engine for hackers. Shodan plays important role in finding any information about IOT devices. So, here we will learn about some interesting operators and advance operators.
+
+- **country** - Find devices running in that country.
+- **port** - This filter used to, find devices running on specified ports.
+- **city** - Find devices located in that city.
+- **net** - Used to find devices according to certain Subnets and IPs.
+- **server** - Find devices or servers that contain a specific server headers.
+- **hostname** - Find devices that contain specific hostname worldwide.
+
+<a name="webcasts-and-podcasts"></a>
+### [↑](#synopsis) Webcasts & Podcasts
+
+:bookmark: Podcasts and Webcasts are one of the effective ways to explore the contents in leisure/idle. Below are some of the quality Podcasts which I would recommend. There are many Podcasts available related to Intel Techniques, but I included the best one. 
+
+- [OSINTCurious Webcasts](#osintcurious-webcasts)
+- [The PRIVACY, SECURITY, & OSINT Show](#inteltechniques-podcast)
+- [The Social-Engineer Podcast](#social-engineer-podcast)
+
+<a name="osintcurious-webcasts"></a>
+#### OSINTCurious Webcasts
+
+:star: This webcast is one of my favorite learning resource. A weekly webcast which helps us to pursue OSINT passion. You can listen this webcast or even watch this webcast on YouTube. Below is all the information related to this webcast or you can visit the official website for more info.
+
+- Wanna join this webcast? - [https://osintcurio.us/join-us-on-the-webcast](https://osintcurio.us/join-us-on-the-webcast/)
+- List of all Past Webcasts - [https://osintcurio.us/osintvideosandpodcasts](https://osintcurio.us/osintvideosandpodcasts/)
+- Listen on Anchor - [https://anchor.fm/osintcurious](https://anchor.fm/osintcurious)
+- Listen on Spotify - [https://open.spotify.com/show/5EmCrjr70FSyFXd5Kgt3HK](https://open.spotify.com/show/5EmCrjr70FSyFXd5Kgt3HK)
+- Listen on Stitcher - [https://www.stitcher.com/podcast/anchor-podcasts/osintcurious](https://www.stitcher.com/podcast/anchor-podcasts/osintcurious)
+- Listen on iTunes - [https://itunes.apple.com/us/podcast/osintcurious/id1449631740](https://itunes.apple.com/us/podcast/osintcurious/id1449631740)
+- Listen on Pocketcasts - [https://pca.st/hWHY](https://pca.st/hWHY)
+- Listen on PodBean - [https://www.podbean.com/podcast-detail/3eryj-83453/OSINTCurious-Podcast](https://www.podbean.com/podcast-detail/3eryj-83453/OSINTCurious-Podcast)
+
+<a name="inteltechniques-podcast"></a>
+#### The PRIVACY, SECURITY, & OSINT Show
+
+:star: Podcast by one of the talented peep Michael Bazzell. This weekly Podcast present ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator. If you are just starting with us, please consider episodes 174-178. - Taken from Inteltechniques.com
+
+- Official Website - [https://inteltechniques.com/podcast.html](https://inteltechniques.com/podcast.html)
+- Listen on iTunes - [https://itunes.apple.com/us/podcast/complete-privacy-security/id1165843330](https://itunes.apple.com/us/podcast/complete-privacy-security/id1165843330)
+- Listen on Stitcher - [http://www.stitcher.com/podcast/michael-bazzell/the-complete-privacy-security-podcast](http://www.stitcher.com/podcast/michael-bazzell/the-complete-privacy-security-podcast)
+- Listen on Spotify - [https://open.spotify.com/show/6QPWpZJ6bRTdbkI7GgLHBM](https://open.spotify.com/show/6QPWpZJ6bRTdbkI7GgLHBM)
+
+<a name="social-engineer-podcast"></a>
+#### The Social-Engineer Podcast
+
+:star: A Podcast by Christopher Hadnagy, one of the talented men in the infosec industry. On the second Monday of each month, they will be releasing a new and exciting episode, each with its specific topic of the month. If you wanna get into social-engineering skills then this is a treasure for your journey. 
+
+- Official Website - [https://www.social-engineer.org/category/podcast/](https://www.social-engineer.org/category/podcast/)
+- Listen on iTunes - [https://itunes.apple.com/us/podcast/the-social-engineer-podcast/id334648685](https://itunes.apple.com/us/podcast/the-social-engineer-podcast/id334648685)
+- Listen on Spotify - [https://open.spotify.com/show/6Pmp3DQKUDW6DXBlnGpxkH](https://open.spotify.com/show/6Pmp3DQKUDW6DXBlnGpxkH)
+
+<a name="verification-quizzes"></a>
+### [↑](#synopsis) Verification Quizzes
+
+:bookmark: Wanna verify something? or wanna practice verification skills? if yes, then fork this stuff in your bucket-list. Few peeps decided to start verification quizzes where people practice their verification and geolocation skills. You can follow on Twitter - [quiztime](https://twitter.com/quiztime). Here is almost all the quizzes, and I have provided all the quizzes in theme based experience for you depending upon the consecutive months .....
+
+- [Quiztime - December 2020](#december2020)
+- [Quiztime - November 2020](#november2020)
+- [Quiztime - October 2020](#october2020)
+
+<a name="december2020"></a>
+:hourglass_flowing_sand: ***December 2020 »*** Verification Challenges which was posted in December 2020.
+
+- [29 Dec 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1343702537715798019)
+- [27 Dec 2020 - LockpickingPete](https://twitter.com/LockpickingPete/status/1343156963006414848)
+- [24 Dec 2020 - twone2](https://twitter.com/twone2/status/1341820295489974273)
+- [22 Dec 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1341125305344376833)
+- [17 Dec 2020 - trbrtc](https://twitter.com/trbrtc/status/1339618507378601985)
+- [17 Dec 2020 - twone2](https://twitter.com/twone2/status/1339449096231395329)
+- [16 Dec 2020 - kollege](https://twitter.com/kollege/status/1338947905575669762)
+- [15 Dec 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1338599317792231424)
+- [12 Dec 2020 - dondude](https://twitter.com/dondude/status/1337505505112154115)
+- [11 Dec 2020 - trbrtc](https://twitter.com/trbrtc/status/1337141364576968715)
+- [09 Dec 2020 - twone2](https://twitter.com/twone2/status/1336677324289421313)
+- [09 Dec 2020 - LarsWienand](https://twitter.com/LarsWienand/status/1336439107367673857)
+- [08 Dec 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1336057285551009792)
+- [06 Dec 2020 - loegli](https://twitter.com/loegli/status/1335608687889625096)
+- [05 Dec 2020 - fiete_stegers](https://twitter.com/fiete_stegers/status/1334964773696507905)
+- [03 Dec 2020 - Sector035](https://twitter.com/Sector035/status/1334546849101910023)
+- [02 Dec 2020 - twone2](https://twitter.com/twone2/status/1334185198834094081)
+- [01 Dec 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1333506320423661569)
+
+<a name="november2020"></a>
+:hourglass_flowing_sand: ***November 2020 »*** Verification Challenges which was posted in November 2020.
+
+- [29 Nov 2020 - s_watzinger](https://twitter.com/s_watzinger/status/1333035488459038725)
+- [28 Nov 2020 - dondude](https://twitter.com/dondude/status/1332436023767420928)
+- [25 Nov 2020 - twone2](https://twitter.com/twone2/status/1331550799927906304)
+- [24 Nov 2020 - kollege](https://twitter.com/kollege/status/1331285267039326215)
+- [24 Nov 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1330975534977855497)
+- [20 Nov 2020 - fiete_stegers](https://twitter.com/fiete_stegers/status/1329775211697336325)
+- [20 Nov 2020 - Sector035](https://twitter.com/Sector035/status/1329551177445412866)
+- [19 Nov 2020 - twone2](https://twitter.com/twone2/status/1329329436131536897)
+- [18 Nov 2020 - LarsWienand](https://twitter.com/LarsWienand/status/1328813939396907013)
+- [17 Nov 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1328447716200943616)
+- [15 Nov 2020 - swiss_jf](https://twitter.com/swiss_jf/status/1327963684203847680)
+- [13 Nov 2020 - mahrko](https://twitter.com/mahrko/status/1327294315341754372)
+- [13 Nov 2020 - trbrtc](https://twitter.com/trbrtc/status/1327005220916883460)
+- [12 Nov 2020 - twone2](https://twitter.com/twone2/status/1326599319936491524)
+- [10 Nov 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1325871136245243904)
+- [08 Nov 2020 - s_watzinger](https://twitter.com/s_watzinger/status/1325380775945134080)
+- [07 Nov 2020 - s_watzinger](https://twitter.com/s_watzinger/status/1324788687754956809)
+- [06 Nov 2020 - Sector035](https://twitter.com/Sector035/status/1324424097271554051)
+- [05 Nov 2020 - twone2](https://twitter.com/twone2/status/1324106094491455488)
+- [04 Nov 2020 - kollege](https://twitter.com/kollege/status/1323706467472580612)
+- [03 Nov 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1323338247330811904)
+- [02 Nov 2020 - s_watzinger](https://twitter.com/s_watzinger/status/1323278925766762496)
+
+<a name="october2020"></a>
+:hourglass_flowing_sand: ***October 2020 »*** Verification Challenges which was posted in October 2020.
+
+- [31 October 2020 - s_watzinger](https://twitter.com/s_watzinger/status/1322505357617496064)
+- [31 October 2020 - dondude](https://twitter.com/dondude/status/1322266305924419585)
+- [29 October 2020 - twone2](https://twitter.com/twone2/status/1321536945701474304)
+- [28 October 2020 - LarsWienand](https://twitter.com/LarsWienand/status/1321215093351337985)
+- [27 October 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1320817508794945539)
+- [25 October 2020 - swiss_jf](https://twitter.com/swiss_jf/status/1320351127959982080)
+- [23 October 2020 - fiete_stegers](https://twitter.com/fiete_stegers/status/1319679829525004288)
+- [21 October 2020 - twone2](https://twitter.com/twone2/status/1318911014273011713)
+- [21 October 2020 - kollege](https://twitter.com/kollege/status/1318634093828034560)
+- [20 October 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1318311760894504960)
+- [15 October 2020 - trbrtc](https://twitter.com/trbrtc/status/1316791166193598466)
+
+<a name="other-intel-resources"></a>
+### [↑](#synopsis) Other Intel Resources
+
+:bookmark: Below are some other resources which helps in investigation. This section contain a lot of stuffs like books, challenges, few good-tweets, presentations, talks, slides, conferences and many more thing. 
+
 - [Quiztime Advent Calendar](#quiztime-advent-calendar)
+- [Books for Intel](#books)
 
 <a name="quiztime-advent-calendar"></a>
-:bulb: ***Quiztime Advent Calendar »*** Advent Calendar is a collection of awesome tips related to OSINT. Started by [quiztime](https://twitter.com/quiztime) community members on the occasion of Christmas Holiday. Here you go ...
+#### Quiztime Advent Calendar
+
+:star: Advent Calendar is a collection of awesome tips related to OSINT. Started by [quiztime](https://twitter.com/quiztime) community members on the occasion of Christmas Holiday. Here you go and drop these awesome tips in your bucket-list :smile: ...
 
 - [Advent Calendar - Day 1](https://twitter.com/fiete_stegers/status/1333692006959296513)
 - [Advent Calendar - Day 2](https://twitter.com/Sector035/status/1334089678513872896)
@@ -275,71 +417,23 @@
 - [Advent Calendar - Day 23](https://twitter.com/twone2/status/1341700078650728448)
 - [Advent Calendar - Day 24](https://twitter.com/quiztime/status/1342029255098699776)
 
-<a name="webcasts-and-podcasts"></a>
-### [↑](#synopsis) Webcasts & Podcasts
+<a name="books"></a>
+#### Books for Intel
 
-:bookmark: Podcasts and Webcasts are one of the effective ways to explore the contents in leisure/idle. Below are some of the quality Podcasts which I would recommend. There are many Podcasts available related to Intel Techniques, but I included the best one. 
+:star: Reading books is a good way to excel our skills. Below is few books which I would like to read. Few books are paid and few books are free from the writer.
 
-- [OSINTCurious Webcasts](#osintcurious-webcasts)
-- [The PRIVACY, SECURITY, & OSINT Show](#inteltechniques-podcast)
-
-<a name="osintcurious-webcasts"></a>
-#### OSINTCurious Webcasts
-
-:star: This webcast is one of my favorite learning resource. A weekly webcast which helps us to pursue OSINT passion. You can listen this webcast or even watch this webcast on YouTube. Below is all the information related to this webcast or you can visit the official website for more info.
-
-- Wanna join this webcast? - [https://osintcurio.us/join-us-on-the-webcast](https://osintcurio.us/join-us-on-the-webcast/)
-- List of all Past Webcasts - [https://osintcurio.us/osintvideosandpodcasts](https://osintcurio.us/osintvideosandpodcasts/)
-- Listen on Anchor - [https://anchor.fm/osintcurious](https://anchor.fm/osintcurious)
-- Listen on Spotify - [https://open.spotify.com/show/5EmCrjr70FSyFXd5Kgt3HK](https://open.spotify.com/show/5EmCrjr70FSyFXd5Kgt3HK)
-- Listen on Stitcher - [https://www.stitcher.com/podcast/anchor-podcasts/osintcurious](https://www.stitcher.com/podcast/anchor-podcasts/osintcurious)
-- Listen on iTunes - [https://itunes.apple.com/us/podcast/osintcurious/id1449631740](https://itunes.apple.com/us/podcast/osintcurious/id1449631740)
-- Listen on Pocketcasts - [https://pca.st/hWHY](https://pca.st/hWHY)
-- Listen on PodBean - [https://www.podbean.com/podcast-detail/3eryj-83453/OSINTCurious-Podcast](https://www.podbean.com/podcast-detail/3eryj-83453/OSINTCurious-Podcast)
-
-<a name="inteltechniques-podcast"></a>
-#### The PRIVACY, SECURITY, & OSINT Show
-
-:star: Podcast by one of the talented peep Michael Bazzell. This weekly Podcast present ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator. If you are just starting with us, please consider episodes 174-178. - Taken from Inteltechniques.com
-
-- Official Website - [https://inteltechniques.com/podcast.html](#)
-- Listen on iTunes - [https://itunes.apple.com/us/podcast/complete-privacy-security/id1165843330](https://itunes.apple.com/us/podcast/complete-privacy-security/id1165843330)
-- Listen on Stitcher - [http://www.stitcher.com/podcast/michael-bazzell/the-complete-privacy-security-podcast](http://www.stitcher.com/podcast/michael-bazzell/the-complete-privacy-security-podcast)
-- Listen on Spotify - [https://open.spotify.com/show/6QPWpZJ6bRTdbkI7GgLHBM](https://open.spotify.com/show/6QPWpZJ6bRTdbkI7GgLHBM)
-
-<a name="verification-quizzes"></a>
-### [↑](#synopsis) Verification Quizzes
-
-:bookmark: Wanna verify something? or wanna practice verification skills? if yes, then fork this stuff in your bucket-list. Few peeps decided to start verification quizzes where people practice their verification and geolocation skills. You can follow on Twitter - [quiztime](https://twitter.com/quiztime). Here is almost all the quizzes ...
-
-- [29 Dec 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1343702537715798019)
-- [27 Dec 2020 - LockpickingPete](https://twitter.com/LockpickingPete/status/1343156963006414848)
-- [24 Dec 2020 - twone2](https://twitter.com/twone2/status/1341820295489974273)
-- [22 Dec 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1341125305344376833)
-- [17 Dec 2020 - trbrtc](https://twitter.com/trbrtc/status/1339618507378601985)
-- [17 Dec 2020 - twone2](https://twitter.com/twone2/status/1339449096231395329)
-- [16 Dec 2020 - kollege](https://twitter.com/kollege/status/1338947905575669762)
-- [15 Dec 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1338599317792231424)
-- [12 Dec 2020 - dondude](https://twitter.com/dondude/status/1337505505112154115)
-- [11 Dec 2020 - trbrtc](https://twitter.com/trbrtc/status/1337141364576968715)
-- [09 Dec 2020 - twone2](https://twitter.com/twone2/status/1336677324289421313)
-- [09 Dec 2020 - LarsWienand](https://twitter.com/LarsWienand/status/1336439107367673857)
-- [08 Dec 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1336057285551009792)
-- [06 Dec 2020 - loegli](https://twitter.com/loegli/status/1335608687889625096)
-- [05 Dec 2020 - fiete_stegers](https://twitter.com/fiete_stegers/status/1334964773696507905)
-- [03 Dec 2020 - sector035](https://twitter.com/Sector035/status/1334546849101910023)
-- [02 Dec 2020 - twone2](https://twitter.com/twone2/status/1334185198834094081)
-- [01 Dec 2020 - bayer_julia](https://twitter.com/bayer_julia/status/1333506320423661569)
+- [Open Source Intelligence Techniques by Michael Bazzell](https://inteltechniques.com/book1.html) - One of the good book for OSINT contains tools, tricks and lot more things. Rewritten this year, I suggest everyone to read this book. You can buy from here [**Checkitout**](https://inteltechniques.com/book1.html)
+- [Human Hacking by Christopher Hadnagy](https://humanhackingbook.com/) - Wanna get into Social Engineering? or wanna play with human? if yes then go for this book. This book is in my bucket-list, I will read this for sure. [**Checkitout**](https://humanhackingbook.com/)
 
 ----
 
 <a name="contact-me"></a>
 :detective: ***Lil bit me and my secrets? »*** Myself Sarvagya Sagar, I'm award winning 21 years old who loves Open Source Intelligence and Web Security stuff. Graduated last year and now I'm up for a JOB. I invest most of my time in learning Investigation and Web-Security related things. I do hacking because I love it. I like making new connections. I embrace the nerds, and I’m an aficionado of Samy Kamkar and Elon Musk. Hopefully, we cross paths in the real world someday, and we can make it a better place together. Happy to help. Now it's your time, Tell me your secrets. Feel free to disturb me ...
 
-- Facebook  : [iamsarvagyaa](https://www.facebook.com/iamsarvagyaa)
+- Facebook  : [iamsarvagyaa1](https://www.facebook.com/iamsarvagyaa1)
 - Twitter   : [iamsarvagyaa](https://twitter.com/iamsarvagyaa)
 - Instagram : [iamsarvagyaa](https://instagram.com/instagram)
 - Keybase   : [iamsarvagyaa](https://keybase.io/iamsarvagyaa)
 - E-mail    : [iamsarvagyaa@gmail.com](mailto:iamsarvagyaa@gmail.com)
 
-> :mega: For Indian Friends, If you consider to donate some bucks, then donate via UPI - iamsarvagyaa@okaxis
+> :mega: For Indian Friends, If you consider to donate me some bucks, then donate via UPI - iamsarvagyaa@okaxis :)
