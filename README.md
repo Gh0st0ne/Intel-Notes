@@ -1,17 +1,16 @@
 <div align="center">
 	<a href="https://github.com/iamsarvagyaa/Intel-Notes"><img src="static/cover.png" alt="Project Intel Notes"></a><br/>
 </div>
-
 <p align="center">
   <a href="#synopsis">Getting Started?</a> »
   <a href="#">Contribution Guide</a> »
   <a href="#contact-me">Wanna Talk?</a></a>
 </p>
-
 <p align="center">
-    <img alt="Open Source" src="https://img.shields.io/badge/Maintained%3F-Yes-9cf?style=for-the-badge">
-    <img alt="Project Intel Notes" src="https://img.shields.io/github/stars/iamsarvagyaa/Intel-Notes?color=orange&style=for-the-badge">
-    <img alt="Follow me on twitter" src="https://img.shields.io/twitter/follow/iamsarvagyaa?color=9cf&label=twitter&style=for-the-badge">
+    <a href="https://github.com/iamsarvagyaa/Intel-Notes"><img alt="Open Source" src="https://img.shields.io/badge/Maintained%3F-Yes-9cf?style=for-the-badge"></a>
+    <a href="https://github.com/iamsarvagyaa/Intel-Notes/stargazers"><img alt="Project Intel Notes" src="https://img.shields.io/github/stars/iamsarvagyaa/Intel-Notes?color=orange&style=for-the-badge"></a>
+    <a href="https://twitter.com/iamsarvagyaa"><img alt="Follow me on twitter" src="https://img.shields.io/twitter/follow/iamsarvagyaa?color=9cf&label=twitter&style=for-the-badge"></a>
+    <a href="https://discord.gg/G8ggP7vHTW"><img alt="Join us on Discord" src="https://img.shields.io/discord/797123775526207522?color=orange&label=DISCORD&style=for-the-badge"></a>
 </p>
 
 ****
@@ -53,8 +52,8 @@
 
 :bookmark: *Keep your both eyes on these blogs related to open source intelligence.*
 
-- [Nixintel](https://nixintel.info/) 
-- [Sector035](https://sector035.nl/) 
+- [Nixintel](https://nixintel.info/)
+- [Sector035](https://sector035.nl/)
 - [Bellingcat](https://www.bellingcat.com/)
 - [Trace Labs](https://www.tracelabs.org/)
 - [MwOsint](https://keyfindings.blog/)
@@ -221,7 +220,31 @@
 
 :bookmark: Many people don't know about the good and alternative tools that are available for conducting Investigations and Forensics. Here, in this section,  you'll find bunch of good tools which helps us to investigate. I request you to use the "Line up table" because the list is long ...
 
+- [OSINT Frameworks](#osint-framework)
+- [Web Asset Discovery](#web-intel)
 - [Social Media Networks](#social-media)
+
+<a name="osint-framework"></a>
+#### OSINT Frameworks
+
+:star: List of some multi-purpose intelligence tools. List contains online-tools, addons, command-line tools and applications. Most of the frameworks are useful in investigations and research ...
+
+- [Photon](https://github.com/s0md3v/Photon) - Handy and Fast command-line crawler designed for Intel.
+- [Osint Framework](https://osintframework.com) - List of some free and actionable tool for OSINT.
+- [Recon-ng](https://github.com/lanmaster53/recon-ng) - Intel gathering tool to harvest information from open sources.
+
+<a name="web-intel"></a>
+#### Web Asset Discovery
+
+:star: Identifying the web asset is very important in Investigation, If target have xyz website. Below are some handy tools to conduct intel. Do you know? Recon is a subset of Open Source Intelligence?
+
+- [IP Address](#ip-address)
+
+<a name="ip-address"></a>
+:bulb: ***IP Address***
+
+- [ARIN Reverse WHOIS](http://whois.arin.net/ui) - Handy online-website for reverse WHOIS.
+- [RIPE DB](https://apps.db.ripe.net/db-web-ui/query) - Nice online-website for ASNs and Reverse WHOIS.
 
 <a name="social-media"></a>
 #### Social Media Networks
@@ -237,6 +260,9 @@
 - [Twitter Advance Search](https://twitter.com/search-advanced) - Allows you to tailor search results to specific date ranges, people and more.
 - [DoesFollow](https://doesfollow.com) - Find out who follows whom on twitter.
 - [All My Tweets](https://www.allmytweets.net/connect/) - Handy website to view all tweets, followers, etc on one page. 
+- [\#onemilliontweetmap](https://onemilliontweetmap.com/) - Clustering engine for online maps to display last 24hrs geotagged tweets in real-time.
+- [Treeverse](https://treeverse.app/) - An addons for visualizing and navigating twitter threads, pretty much handy and useful addons. Check it out!
+- [Foller.me](https://foller.me/) - Twitter analytics tool that gives you good insights...
 
 <a name="reddit"></a>
 :bulb: ***Reddit »*** 
@@ -273,13 +299,13 @@
 - [OSINTCurious Webcasts](#osintcurious-webcasts)
 - [The PRIVACY, SECURITY, & OSINT Show](#inteltechniques-podcast)
 - [The Social-Engineer Podcast](#social-engineer-podcast)
+- [Bellingcat Podcast](#bellingcat-podcast)
 
 <a name="osintcurious-webcasts"></a>
 #### OSINTCurious Webcasts
 
-:star: This webcast is one of my favorite learning resource. A weekly webcast which helps us to pursue OSINT passion. You can listen this webcast or even watch this webcast on YouTube. Below is all the information related to this webcast or you can visit the official website for more info.
+:star: This webcast is one of my favorite learning resource. A weekly webcast which helps us to pursue OSINT passion. You can listen this webcast or even watch this webcast on YouTube. Below is all the information related to this webcast or you can visit the official website for more info.e
 
-- Wanna join this webcast? - [https://osintcurio.us/join-us-on-the-webcast](https://osintcurio.us/join-us-on-the-webcast/)
 - List of all Past Webcasts - [https://osintcurio.us/osintvideosandpodcasts](https://osintcurio.us/osintvideosandpodcasts/)
 - Listen on Anchor - [https://anchor.fm/osintcurious](https://anchor.fm/osintcurious)
 - Listen on Spotify - [https://open.spotify.com/show/5EmCrjr70FSyFXd5Kgt3HK](https://open.spotify.com/show/5EmCrjr70FSyFXd5Kgt3HK)
@@ -306,6 +332,13 @@
 - Official Website - [https://www.social-engineer.org/category/podcast/](https://www.social-engineer.org/category/podcast/)
 - Listen on iTunes - [https://itunes.apple.com/us/podcast/the-social-engineer-podcast/id334648685](https://itunes.apple.com/us/podcast/the-social-engineer-podcast/id334648685)
 - Listen on Spotify - [https://open.spotify.com/show/6Pmp3DQKUDW6DXBlnGpxkH](https://open.spotify.com/show/6Pmp3DQKUDW6DXBlnGpxkH)
+
+<a name="bellingcat-podcast"></a>
+#### Bellingcat Podcast and Chat
+
+:star: One of my favorite Podcast. Many of seasons and release of this Podcast is not available on Podcast-hosting vendors. So, I recommend you to check official website and listen all the Podcast of Bellingcat.
+
+- Official Website - [https://www.bellingcat.com/category/resources/podcasts](https://www.bellingcat.com/category/resources/podcasts/).
 
 <a name="verification-quizzes"></a>
 ### [↑](#synopsis) Verification Quizzes
@@ -384,10 +417,32 @@
 
 :bookmark: Below are some other resources which helps in investigation. This section contain a lot of stuffs like books, challenges, few good-tweets, presentations, talks, slides, conferences and many more thing. 
 
-- [Quiztime Advent Calendar](#quiztime-advent-calendar)
 - [Books for Intel](#books)
+- [Digital Sherlock](#digital-sherlock)
+- [Quiztime Advent Calendar](#quiztime-advent-calendar)
+
+<a name="books"></a>
+#### Books for Intel
+
+:star: Reading books is a good way to excel our skills. Below is few books which I would like to read. Few books are paid and few books are free from the writer.
+
+- [Open Source Intelligence Techniques by Michael Bazzell](https://inteltechniques.com/book1.html) - One of the good book for OSINT contains tools, tricks and lot more things. Rewritten this year, I suggest everyone to read this book. You can buy from here [**Checkitout**](https://inteltechniques.com/book1.html)
+- [Human Hacking by Christopher Hadnagy](https://humanhackingbook.com/) - Wanna get into Social Engineering? or wanna play with human? if yes then go for this book. This book is in my bucket-list, I will read this for sure. [**Checkitout**](https://humanhackingbook.com/)
+
+<a name="digital-sherlock"></a>
+#### Digital Sherlock
+
+:star: Below are some kind-hearted peep, related to Investigation, Forensic and Social Engineering. You can follow them and later, I will create a twitter list. Here you go ...
+
+- [Bellingcat](https://twitter.com/bellingcat) - Investigations, Research, and Journalism
+- [Somdev Sangwan](https://twitter.com/s0md3v) - OSINT, Programming, and Security
+- [Nixintel](https://twitter.com/nixintel) - Forensic and OSINT
+- [Trace Labs](https://twitter.com/TraceLabs) - OSINTForGood
+- [Michael Bazzell](https://twitter.com/IntelTechniques) - Privacy, OSINT, and Forensic
+- [Sector035](https://twitter.com/Sector035) - OSINT, Verification, and Forensic
 
 <a name="quiztime-advent-calendar"></a>
+
 #### Quiztime Advent Calendar
 
 :star: Advent Calendar is a collection of awesome tips related to OSINT. Started by [quiztime](https://twitter.com/quiztime) community members on the occasion of Christmas Holiday. Here you go and drop these awesome tips in your bucket-list :smile: ...
@@ -416,14 +471,6 @@
 - [Advent Calendar - Day 22](https://twitter.com/fiete_stegers/status/1341353766382125056)
 - [Advent Calendar - Day 23](https://twitter.com/twone2/status/1341700078650728448)
 - [Advent Calendar - Day 24](https://twitter.com/quiztime/status/1342029255098699776)
-
-<a name="books"></a>
-#### Books for Intel
-
-:star: Reading books is a good way to excel our skills. Below is few books which I would like to read. Few books are paid and few books are free from the writer.
-
-- [Open Source Intelligence Techniques by Michael Bazzell](https://inteltechniques.com/book1.html) - One of the good book for OSINT contains tools, tricks and lot more things. Rewritten this year, I suggest everyone to read this book. You can buy from here [**Checkitout**](https://inteltechniques.com/book1.html)
-- [Human Hacking by Christopher Hadnagy](https://humanhackingbook.com/) - Wanna get into Social Engineering? or wanna play with human? if yes then go for this book. This book is in my bucket-list, I will read this for sure. [**Checkitout**](https://humanhackingbook.com/)
 
 ----
 
